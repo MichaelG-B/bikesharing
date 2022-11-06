@@ -1,4 +1,4 @@
-# bikesharing
+# Bike Sharing Company Analysis
 
 ## [link to Story](https://public.tableau.com/app/profile/michael.beyer/viz/Module14ChallengeNYCbikes/Story1#1)
 
