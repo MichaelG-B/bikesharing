@@ -1,6 +1,6 @@
 # Bike Sharing Company Analysis
 
-## [link to Story](https://public.tableau.com/app/profile/michael.beyer/viz/Module14ChallengeNYCbikes/Story1#1)
+## [Tableau Public link](https://public.tableau.com/app/profile/michael.beyer/viz/Module14ChallengeNYCbikes/Story1#1)
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 
